@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background: linear-gradient(blue, red);
+    font-family: 'Roboto Condensed', sans-serif;;
+}
+
+.intro {
+    /*background-image: url("images/Birmingham.Sky.View.jng"); 
+    background-size: cover ;*/
+}
+
+.img {
+    width: 200px;
+    border: 3px solid blue;
+    border-radius: 5px;
+}
+
+.section {
+    height: 250px;
+    width: 200px;
+    
+}
+
+.Places-to-go {
+    display: flex;
+    justify-content: space-around;  
+}
+.trivia {
+    list-style: none
+}
+
+.Bham-wiki {
+    color: black
+}
+
+.single {
+    margin-bottom: 40.2px;
+}
+
+.footer {
+    margin-top: 100px; 
+}
